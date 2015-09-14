@@ -1,3 +1,4 @@
+//primitive
 public class Hello
 {
     public static void Main()
